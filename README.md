@@ -1,7 +1,7 @@
 # truthordare-bot-telegram
  Bot Truth Or Dare Telegram Menggunakan Framework Telegraf
 
-Pastikan Sudah Menginstall NodeJs(Jika Belum Install Di <a href="https://nodejs.org/>Website Resminya</a>)
+Pastikan Sudah Menginstall NodeJs(Jika Belum Install Di <a href="https://nodejs.org/>Website Resminya</a> )
 
 Install Framework Telegraf(npm install saja tapi saya jelaskan)
 
